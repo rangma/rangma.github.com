@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Zbox's Blog]]></title>
+  <link href="http://blog.zbox.com/atom.xml" rel="self"/>
+  <link href="http://blog.zbox.com/"/>
+  <updated>2013-09-22T22:30:46+08:00</updated>
+  <id>http://blog.zbox.com/</id>
+  <author>
+    <name><![CDATA[Jerry.Zhao]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Day 1]]></title>
+    <link href="http://blog.zbox.com/blog/2013/09/22/day-1.markdown/"/>
+    <updated>2013-09-22T14:41:00+08:00</updated>
+    <id>http://blog.zbox.com/blog/2013/09/22/day-1.markdown</id>
+    <content type="html"><![CDATA[很久没有自己很想做的一件事了，这是很久以来的第一次，一定要完成即使没有任何回报。
+此博客作为网络工作日记使用。
+vi已经用了很久现在改成vim gvim有乱码
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Day 1]]></title>
+    <link href="http://blog.zbox.com/blog/2013/09/22/day-1/"/>
+    <updated>2013-09-22T14:41:00+08:00</updated>
+    <id>http://blog.zbox.com/blog/2013/09/22/day-1</id>
+    <content type="html"><![CDATA[<p>很久没有自己很想做的一件事了，这是很久以来的第一次，一定要完成即使没有任何回报。
+此博客作为网络工作日记使用。
+vi已经用了很久现在改成vim gvim有乱码
+发布测试</p>
+]]></content>
+  </entry>
+  
+</feed>

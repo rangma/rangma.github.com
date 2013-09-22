@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://blog.zbox.com/blog/2013/09/22/day-1/</loc>
+        <lastmod>2013-09-22T20:51:54+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.zbox.com/blog/2013/09/22/day-1.markdown/</loc>
+        <lastmod>2013-09-22T20:51:54+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.zbox.com/blog/archives/</loc>
+        <lastmod>2013-09-22T20:51:54+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.zbox.com/</loc>
+        <lastmod>2013-09-22T20:51:54+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.zbox.com/robots.txt</loc>
+        <lastmod>2013-09-22T20:51:54+08:00</lastmod>
+    </url>
+</urlset>
