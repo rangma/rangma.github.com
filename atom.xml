@@ -4,7 +4,7 @@
   <title><![CDATA[Zbox's Blog]]></title>
   <link href="http://blog.zbox.com/atom.xml" rel="self"/>
   <link href="http://blog.zbox.com/"/>
-  <updated>2013-09-22T23:10:22+08:00</updated>
+  <updated>2013-09-22T23:52:22+08:00</updated>
   <id>http://blog.zbox.com/</id>
   <author>
     <name><![CDATA[Jerry.Zhao]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[win7 can not input chinese]]></title>
+    <link href="http://blog.zbox.com/blog/2013/09/22/win7-can-not-input-chinese.markdown/"/>
+    <updated>2013-09-22T23:51:00+08:00</updated>
+    <id>http://blog.zbox.com/blog/2013/09/22/win7-can-not-input-chinese.markdown</id>
+    <content type="html"><![CDATA[]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[win7 can not input chinese]]></title>
+    <link href="http://blog.zbox.com/blog/2013/09/22/win7-can-not-input-chinese/"/>
+    <updated>2013-09-22T23:51:00+08:00</updated>
+    <id>http://blog.zbox.com/blog/2013/09/22/win7-can-not-input-chinese</id>
+    <content type="html"><![CDATA[<p>E:\zhaoqi\GitHubDoc\octopress [master +6 ~3 -3 !]> rake new_post
+Enter a title for your post: µÚÒ»Ìì
+mkdir -p source/_posts
+rake aborted!
+invalid byte sequence in UTF-8
+E:/zhaoqi/GitHubDoc/octopress/Rakefile:104:in `block in <top (required)>&lsquo;
+Tasks: TOP => new_post
+(See full trace by running task with &mdash;trace)
+E:\zhaoqi\GitHubDoc\octopress [master +6 ~3 -3 !]> rake new_post</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[new-post]]></title>
+    <link href="http://blog.zbox.com/blog/2013/09/22/new-post/"/>
+    <updated>2013-09-22T23:36:00+08:00</updated>
+    <id>http://blog.zbox.com/blog/2013/09/22/new-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My First Log]]></title>
